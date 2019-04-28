@@ -73,7 +73,7 @@ function Board(props){
                 board = {props.board}
                 click={props.handleClick}/>
         ))
-    return <div className="container board"> {items} </div>
+    return <div className="board"> {items} </div>
 }
 
 // Render:
