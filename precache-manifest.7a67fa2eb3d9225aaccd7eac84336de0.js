@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/connect-four/static/js/runtime~main.000e00dd.js"
   },
   {
-    "revision": "0d5c545284b5cc9e42a3",
-    "url": "/connect-four/static/js/main.f61149ce.chunk.js"
+    "revision": "145088d3724763ae50bf",
+    "url": "/connect-four/static/js/main.42f09300.chunk.js"
   },
   {
     "revision": "e0503efc3264c42068e3",
     "url": "/connect-four/static/js/2.bd5183c1.chunk.js"
   },
   {
-    "revision": "0d5c545284b5cc9e42a3",
-    "url": "/connect-four/static/css/main.1d79fbd3.chunk.css"
+    "revision": "145088d3724763ae50bf",
+    "url": "/connect-four/static/css/main.cf37e661.chunk.css"
   },
   {
-    "revision": "907132a28e0952e4ce8e1e894bf3fde5",
+    "revision": "a88467d8eccf3349909a8472f330fadd",
     "url": "/connect-four/index.html"
   }
 ];
