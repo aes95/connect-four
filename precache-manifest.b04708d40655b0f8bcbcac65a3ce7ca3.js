@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/connect-four/static/css/main.1d79fbd3.chunk.css"
   },
   {
-    "revision": "28f70255b874eb82dd1facbc163bacdb",
+    "revision": "907132a28e0952e4ce8e1e894bf3fde5",
     "url": "/connect-four/index.html"
   }
 ];
